@@ -19,3 +19,22 @@ An example runs of the program:
 Please enter amount in pounds: XXX
 £ XXX are $ XXX
 
+
+# Assignment 2
+Data structures in Python
+# Steps done
+1. List Exercise:
+a. Create a list of 5 random numbers and print the list.
+b. Insert 3 new values to the list and print the updated list.
+c. Try to use a for loop to print each element in the list.
+2. Dictionary Exercise:
+a. Create a dictionary with keys 'name', 'age', and 'address' and values 'John', 25, and 'New York' respectively.
+b. Add a new key-value pair to the dictionary created with key 'phone' and value '1234567890'. 
+3. Set Exercise:
+a.Create a set with values 1, 2, 3, 4, and 5.
+b. Add the value 6 to the set created .
+c. Remove the value 3 from the set created.
+4. Tuple Exercise:
+a. Create a tuple with values 1, 2, 3, and 4 
+b. Print the length of the tuple created.
+
