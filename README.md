@@ -10,7 +10,7 @@ Python Fundamentals
 5. Exercise 5: Python code that outputs the following sentence "SDK" stands for "Software Development Kit", whereas 
 "IDE" stands for "Integrated Development Environment". 
 6. Exercise 6: Practiced some codes that already given
-Exercise 7:Define the variables below. Print the types of each variable. What is the sum of your variables? What datatype is the sum?num=23,textnum="57",decimal=98.3
+7. Exercise 7:Define the variables below. Print the types of each variable. What is the sum of your variables? What datatype is the sum?num=23,textnum="57",decimal=98.3
 8. Exercise 8: calculate the number of minutes in a year using variables for each unit of time. print a statement that describes what your code does also. Create three variables to store no of days in a year, minute in a hour, hours in a day, then calculate the total minutes in a year and print the values.
 9. Exercise 9: Python code that asks the user to enter his/her name and then output/prints his/her name with a greeting.
 10. Exercise 10: Name of file: PoundsToDollars.py
