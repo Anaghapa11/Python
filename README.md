@@ -70,5 +70,23 @@ Python Function
 5.  A Python program to convert a list of strings to uppercase using the map() function.
 
 
+# Assignment 5 - File and Exception Handling
+
+# Steps done
+1. Read a file
+Get filename,Open in read mode,Display content,Handle errors
+2. Copy file contents
+Get source & destination filenames,Read from source,Write to destination,Handle errors
+3. Count words in a file
+Get filename,Read content,Split & count words,Display count,Handle errors
+4. Convert string to integer
+Get input,Try int() conversion,Handle errors
+5. Check for negative numbers in a list
+Get list input,Convert to integers,If any number < 0, raise error
+6. Compute average of integers
+Get list input,Convert & compute average,Handle errors,finally: Print completion message
+7. Write to a file
+Get filename,Open in write mode,Write string,Handle errors,Print success message
+
 
 
