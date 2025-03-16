@@ -90,3 +90,14 @@ Get filename,Open in write mode,Write string,Handle errors,Print success message
 
 
 
+# Assignment 6 - Python Part Assignment OOPs
+
+# Steps done
+I. University Course Catalog
+1. Define Course 
+2. Define Subclass
+II. Employee Module
+3. Define employee class
+4. Define an Employee class
+5. Attributes:name,salary
+6. Methods:get_name(),get_salary()
