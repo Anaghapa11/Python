@@ -101,3 +101,26 @@ II.  Employee Module
 4. Define an Employee class
 5. Attributes:name,salary
 6. Methods:get_name(),get_salary()
+
+
+
+# Assignment 7 - Numpy_Pandas
+
+# Steps done
+1. Exercise 1:Created a numpy array containing the numbers from 1 to 10,and then reshape it into a 2x5 matrix.
+2. Exercise 2:created a numpy array containing the numbers from 1 to 20,and then extract between the 5th and 15th index.
+3. Exercise 3:created a Pandas series data and the added a new data into it.
+4. Exercise 4:created a dataframe with the columns: name, age, and gender having 10 rows of data.
+5. Exercise 5:Added a new column to the data frame called occupation wth the values Programmer, Manager, and Analyst.
+6. Exercise 6:Filtered the row where the age is greater than or equal to 30.
+7. Exercise 7:Convert the dataframe into a csv file and read csv file, finally displayed.
+
+
+
+
+
+
+
+
+
+
