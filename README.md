@@ -117,6 +117,23 @@ II.  Employee Module
 
 
 
+# Assignment 8 - Data_Visualization
+
+# Steps done
+1. Line Chart: It displays the population of four different cities over time.
+2. Scatter Plot Chart: It shows the relationship between the number of hours studied and the test scores obtained by a group of students.
+3. Bar Chart: It shows the total sales for each month of the year.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
