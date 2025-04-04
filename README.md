@@ -127,6 +127,50 @@ II.  Employee Module
 
 
 
+# Project - Module_End_Project
+
+# Steps done
+1. Import libraries that are essential for data manipulation, numerical operations, and visualization.
+2. Converts the Google Sheets link to a CSV format and Import the ABC company dataset into a DataFrame.
+3. Clean and prepare the dataset, focusing on the height column.
+4. Creates an array of random integers from 150 to 180  with length equal to the number of rows.
+5. Checks the first 5 values and confirms the range is 150-180.
+6. Shows the count of missing values per column anad Modifies directly.
+7. Ensure all columns have correct data types.
+8. Analyze the data
+9. Distribution of Employees Across Teams.
+10. Displays both counts and percentages.
+11. Segregate Employees by Position.
+12. Shows the result for inspection.
+13. Predominant Age Group.
+14. Counts employees in each age group.
+15. Displays counts per age group.
+16. Highest Salary Expenditure
+17. Displays totals and Identifies highest expenditure.
+18. Correlation Between Age and Salary.
+19. Computes Pearson correlation (-1 to 1) and Assesses age-salary relationship.
+20. Shows the correlation value & Confirms the result for visualization.
+21. Graphical Representation:
+* Bar chart: Employee Distribution by Team - Count employees in each team and calculate their percentage.
+* Pie chart: Employee Segregation by Position - Categorize employees based on their positions.
+* Barchart : predominant age group among employees - Identify the most common age range.
+* Barchart:  Discover which team and position have the highest salary expenditure - Find which team and position have the highest salary expenditure.
+* Scatter Plot: Age v/s Salary - Analyze the relationship between age and salary.
+22. # Conclusion 
+* Majority of employees are aged 26-30, indicating a preference for a younger workforce.
+* Salary is more influenced by position than age.
+* Boston Celtics has the highest employee concentration.
+* A moderate correlation between age and salary, implying that performance and role significance drive earnings.
+
+
+
+
+
+
+
+
+
+
 
 
 
